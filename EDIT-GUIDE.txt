@@ -1,0 +1,68 @@
+SRI SAI COMPUTER CARE DEMO WEBSITE
+==================================
+
+PROJECT FOLDER
+--------------
+C:\Users\ADMIN\Downloads\OneDrive\Desktop\Sri-Sai-Computer-Care-Demo
+
+MAIN WEBSITE FILE
+-----------------
+index.html
+
+CURRENT DEMO DETAILS
+--------------------
+Business Name: Sri Sai Computer Care
+WhatsApp: 919000000000
+Display Phone: +91 90000 00000
+Location: Nellore, Andhra Pradesh
+Map URL: https://www.google.com/maps/search/?api=1&query=computer+repair+shop+Nellore+Andhra+Pradesh
+
+IMPORTANT
+---------
+1. This is a fictional demonstration website.
+2. All prices and products are sample content.
+3. Replace the phone number before publishing.
+4. Replace the Google Maps link before publishing.
+5. Replace sample warranty and offer text with the client's real terms.
+6. Confirm all product names, specifications and prices with the client.
+7. Do not publish fake testimonials, reviews or business achievements.
+
+HOW TO OPEN
+-----------
+Double-click:
+START-WEBSITE.cmd
+
+HOW TO EDIT
+-----------
+Open the project folder in VS Code.
+Edit:
+index.html
+
+WHATSAPP
+--------
+Search in index.html for:
+919000000000
+
+Replace it with the client's WhatsApp number including country code,
+but without the plus symbol.
+
+Example:
+919876543210
+
+PHONE
+-----
+Search for:
++91 90000 00000
+
+Replace with the client's display phone number.
+
+LOCATION
+--------
+Search for:
+Nellore, Andhra Pradesh
+
+Replace with the verified business location.
+
+CREATED BY
+----------
+Kalyan Web Studio
